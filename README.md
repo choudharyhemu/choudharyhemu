@@ -12,6 +12,7 @@
   - <mark>Algorithms</mark>
   - <mark>Data Structures</mark>
   - <mark>Machine Learning</mark>
+  - <mark>AWS</mark>
 - ⚡ Fun fact: I love to play VolleyBall.
 
 ### Connect with me:
