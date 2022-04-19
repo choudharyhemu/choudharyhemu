@@ -3,7 +3,7 @@
 ### I Loves to LEARN and Lives to EXPLORE !! As a natural born go-getter, my passion has continuously driven me to expand my knowledge. With a diverse skill set, I’m confident in the creative ideas and successful solutions I bring to the table.
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m actively looking opportunities in DevOps , Data Science field and Software Development field as well.
+- 👯 I’m actively looking opportunities in Software Development, DevOps and Data Science field as well.
 - ⚡ I am comfortable with...
   - <mark>C</mark>
   - <mark>C++</mark>
@@ -13,6 +13,7 @@
   - <mark>Data Structures</mark>
   - <mark>Machine Learning</mark>
   - <mark>AWS</mark>
+  - <mark>DevOps</mark>
 - ⚡ Fun fact: I love to play VolleyBall.
 
 ### Connect with me:
